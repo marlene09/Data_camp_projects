@@ -1,4 +1,4 @@
-# Data_camp_projects
+# Computer_vision_Machine_learning 
 
 This project combines image processing/augmentation techniques on images of bees prior to applying deep learning models to predict bee species. 
 
